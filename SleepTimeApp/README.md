@@ -1,0 +1,1 @@
+A simple web application similar to [sleepyti.me](https://sleepyti.me/) but limited to suggesting "wake up" times based on calculating sleep cycles.
